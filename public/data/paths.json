@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Warrior",
+    "name": "Destruction",
+    "icon": "/assets/paths/Warrior.png"
+  },
+  {
+    "id": "Rogue",
+    "name": "Hunt",
+    "icon": "/assets/paths/Rogue.png"
+  },
+  {
+    "id": "Mage",
+    "name": "Erudition",
+    "icon": "/assets/paths/Mage.png"
+  },
+  {
+    "id": "Shaman",
+    "name": "Harmony",
+    "icon": "/assets/paths/Shaman.png"
+  },
+  {
+    "id": "Warlock",
+    "name": "Nihility",
+    "icon": "/assets/paths/Warlock.png"
+  },
+  {
+    "id": "Knight",
+    "name": "Preservation",
+    "icon": "/assets/paths/Knight.png"
+  },
+  {
+    "id": "Priest",
+    "name": "Abundance",
+    "icon": "/assets/paths/Priest.png"
+  },
+  {
+    "id": "Memory",
+    "name": "Remembrance",
+    "icon": "/assets/paths/Memory.png"
+  }
+]

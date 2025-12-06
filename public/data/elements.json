@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Physical",
+    "name": "Physical",
+    "icon": "/assets/elements/Physical.png",
+    "color": "#FFFFFF"
+  },
+  {
+    "id": "Fire",
+    "name": "Fire",
+    "icon": "/assets/elements/Fire.png",
+    "color": "#F84F36"
+  },
+  {
+    "id": "Ice",
+    "name": "Ice",
+    "icon": "/assets/elements/Ice.png",
+    "color": "#47C7FD"
+  },
+  {
+    "id": "Thunder",
+    "name": "Lightning",
+    "icon": "/assets/elements/Thunder.png",
+    "color": "#8872F1"
+  },
+  {
+    "id": "Wind",
+    "name": "Wind",
+    "icon": "/assets/elements/Wind.png",
+    "color": "#00FF9C"
+  },
+  {
+    "id": "Quantum",
+    "name": "Quantum",
+    "icon": "/assets/elements/Quantum.png",
+    "color": "#1C29BA"
+  },
+  {
+    "id": "Imaginary",
+    "name": "Imaginary",
+    "icon": "/assets/elements/Imaginary.png",
+    "color": "#F4D258"
+  }
+]
