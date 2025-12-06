@@ -4,6 +4,8 @@
 
 Dirancang dengan estetika premium yang akurat dengan game untuk memberikan pengalaman yang imersif bagi para Trailblazer.
 
+> [!IMPORTANT] > **Status Proyek**: Website ini masih dalam tahap pengembangan aktif (_Work in Progress_). Beberapa fitur mungkin belum sempurna dan masih banyak peningkatan yang direncanakan. Masukan Anda sangat berharga!
+
 ## ✨ Fitur
 
 ### 📊 Tier List Interaktif
