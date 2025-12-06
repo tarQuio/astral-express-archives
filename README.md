@@ -70,5 +70,5 @@ Aset game dan properti adalah milik pemiliknya masing-masing.
 
 ## 🙏 Ucapan Terima Kasih
 
-- **[StarRailRes](https://github.com/Mar-7th/StarRailRes)**: Terima kasih telah menyediakan dataset aset dan data game yang komprehensif.
+- **[StarRailRes](https://github.com/Mar-7th/StarRailRes)**: Terima kasih telah menyediakan dataset aset dan data game yang komprehensif (Berlisensi AGPL-3.0).
 - **HoYoverse**: Terima kasih telah menciptakan Honkai: Star Rail.
